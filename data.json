@@ -1,0 +1,144 @@
+{
+	"data": [
+		{
+			"date": "01",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1100
+		},
+		{
+			"date": "02",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1150
+		},
+		{
+			"date": "03",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 900
+		},
+		{
+			"date": "04",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1200
+		},
+		{
+			"date": "05",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1000
+		},
+		{
+			"date": "06",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1100
+		},
+		{
+			"date": "07",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1250
+		},
+		{
+			"date": "08",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1380
+		},
+		{
+			"date": "09",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1200
+		},
+		{
+			"date": "10",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1550
+		},
+		{
+			"date": "11",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1750
+		},
+		{
+			"date": "12",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1450
+		},
+		{
+			"date": "13",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1550
+		},
+		{
+			"date": "14",
+            "month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1550
+		},
+		{
+			"date": "15",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1600
+		},
+		{
+			"date": "16",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1750
+		},
+		{
+			"date": "17",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1900
+		},
+		{
+			"date": "18",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 2050
+		},
+		{
+			"date": "19",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 1900
+		},
+		{
+			"date": "20",
+			"month": "December",
+			"year": "2020",
+			"investment_invest_value": 1000,
+			"investment_current_value": 2150
+		}
+	]
+}
